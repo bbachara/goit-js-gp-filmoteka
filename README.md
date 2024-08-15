@@ -1,6 +1,6 @@
 # parcel-project-template
 
-https://bbachara.github.io/goit-js-gp-filmoteka
+web: https://bbachara.github.io/goit-js-gp-filmoteka
 
 ## Zalezności
 
